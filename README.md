@@ -1,6 +1,3 @@
-
-Aquí tienes el contenido actualizado para tu archivo README.md, que ahora incluye un resumen ejecutivo de los hallazgos clave de tu informe final.
-
 # **Telecom X \- Análisis de Evasión de Clientes (Churn)**
 
 ¡Bienvenido al desafío de Telecom X\! Este proyecto te ofrece una oportunidad única para aplicar tus habilidades en **Análisis de Datos** y **Ciencia de Datos** en un escenario de negocio real, centrado en la **evasión de clientes (Churn)**.
